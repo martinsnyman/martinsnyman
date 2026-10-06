@@ -18,7 +18,7 @@ An AI agent that answers questions about a South African small-business tax guid
 A console crypto exchange in **C++17** that replays **1M+ real order-book entries** across five trading pairs. It includes a price-priority **matching engine**, user accounts, persistent wallets and OHLC candlestick summaries.
 `C++17` `STL` `OOP` `File I/O`
 
-### [Iron Forge Events](https://github.com/martinsnyman/event_handler)
+### [Basic Full-Stack Event Handler](https://github.com/martinsnyman/event_handler)
 A full-stack **event booking app** with organiser and attendee portals: create and publish events, sell two ticket types, prevent double bookings, and look up or cancel bookings. Data integrity is enforced in the SQLite schema.
 `Node.js` `Express` `EJS` `SQLite`
 
